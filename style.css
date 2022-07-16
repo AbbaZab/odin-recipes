@@ -1,0 +1,17 @@
+* {
+    background-color: grey;
+}
+
+.mainlinklist {
+    font-size: 30px;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+h1 {
+    text-align: center;
+    background-color: rgb(35, 35, 136);
+}
